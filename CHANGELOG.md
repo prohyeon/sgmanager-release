@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.3
+
+- Closes Chrome through WM_CLOSE during token capture instead of force-killing it.
+- Keeps STOVE launcher fallback and attendance-game process cleanup on `taskkill /F`.
+- Updates SGManager app and Windows executable versions to 0.1.3.
+
 ## v0.1.2
 
 - Adds public release channel configuration for in-app update checks.
