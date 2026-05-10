@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.4
+
+- Shows `[SG] ING (작업중)` in the Chrome title while full automation is running.
+- Retries the full automation button click once after 5 seconds when Chrome remains open and idle.
+- Updates SGManager app and Windows executable versions to 0.1.4.
+
 ## v0.1.3
 
 - Closes Chrome through WM_CLOSE during token capture instead of force-killing it.
