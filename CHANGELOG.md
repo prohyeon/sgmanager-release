@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.1.5
+
+- Places SGManager at the upper-left work area on startup to reduce Chrome overlap.
+- Minimizes SGManager during click-all runs and restores it before showing completion or error results.
+- Opens Chrome in the right half of the work area and corrects the window bounds after launch.
+- Updates SGManager app and Windows executable versions to 0.1.5.
+
 ## v0.1.4
 
 - Shows `[SG] ING (작업중)` in the Chrome title while full automation is running.
