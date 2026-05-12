@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.1.6
+
+- 기존 Chrome 창이 열려 있어도 새로 열린 STOVE 프로필 Chrome 창을 우선 인식하도록 개선했습니다.
+- 전체 자동화 버튼 탐색과 좌표 fallback이 방금 연 Chrome 창을 먼저 사용하도록 수정했습니다.
+- Google 로그인 후 Chrome 창이 여러 개 있을 때 뒤쪽 창을 잘못 대상으로 잡는 문제를 완화했습니다.
+- SGManager 앱 버전과 Windows 실행 파일 버전을 0.1.6으로 업데이트했습니다.
+
 ## v0.1.5
 
 - Places SGManager at the upper-left work area on startup to reduce Chrome overlap.
