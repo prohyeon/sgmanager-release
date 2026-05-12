@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.1.7
+
+- SSO state POST 요청 후 profile Chrome을 열기 전에 기존 Chrome 창 존재 여부를 확인하도록 개선했습니다.
+- 기존 Chrome 창이 열려 있으면 안전하게 종료한 뒤 새 profile Chrome을 열어 Google 로그인 이후 뒤쪽 Chrome 창을 잘못 인식하는 문제를 줄였습니다.
+- 직접 프로필 열기, 딸깍 전체 자동화, SSO 진단의 브라우저 열기 경로에 동일한 사전 종료 처리를 적용했습니다.
+- SGManager 앱 버전과 Windows 실행 파일 버전을 0.1.7로 업데이트했습니다.
+
 ## v0.1.6
 
 - 기존 Chrome 창이 열려 있어도 새로 열린 STOVE 프로필 Chrome 창을 우선 인식하도록 개선했습니다.
