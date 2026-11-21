@@ -21,7 +21,7 @@
 - Windows FileVersion/ProductVersion: `0.5.4.0`
 - 실행 파일 크기: `27,519,386` bytes
 - SHA256: `283876E6DD41DEBEDEAACD2F868633358F1583D497875B8B09A62AE85AC55171`
-- 앱의 STOVE 토큰으로 플레이크 내역 API를 부르는 것은 아직 실계정에서 확인하지 않았습니다.
+- 실계정에서 플레이크 달력 갱신과 표시 확인
 
 ## 파일
 
